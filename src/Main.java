@@ -9,5 +9,6 @@ public class Main {
         passwordGenerator.setVisible(true);
 
 
+        
     }
 }
